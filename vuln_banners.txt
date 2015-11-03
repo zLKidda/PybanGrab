@@ -1,0 +1,37 @@
+vsFTPd 2.3.4
+Please use the exploit/unix/ftp/vsftpd_234_backdoor in metasploit to exploit this vuln in metasploit
+3Com 3CDaemon FTP Server Version 2.0
+Using buffer overflow exploit to crash the login. And allow root access if windows machine
+Ability Server 2.34
+Please use the exploit/windows/ftp/ability_server_stor to exploit this vuln in metasploit
+CCProxy Telnet Service Ready
+Please use the exploit/windows/proxy/ccproxy_telnet_ping to exploit this vuln in metasploit
+ESMTP TABS Mail Server for Windows NT
+Download and compile this https://svn.nmap.org/nmap/scripts/smtp-vuln-cve2010-4344.nse in C++ for an exploit
+FreeFloat Ftp Server (Version 1.00)
+use the exploit/windows/ftp/freefloatftp_user to exploit in metasploit
+IMAP4rev1 MDaemon 9.6.4 ready
+use  the exploit/windows/imap/mdaemon_fetch to exploit in metasploit
+MailEnable Service, Version: 0-1.54
+Please run this script to exploit http://exp.syue.com/Remote/825.html
+NetDecision-HTTP-Server 1.0
+Please run this script to exploit http://exp.syue.com/Remote/14241.html
+PSO Proxy 0.9
+
+SAMBAR
+
+Sami FTP Server 2.0.2
+
+Spipe 1.0
+
+TelSrv 1.5
+
+WDaemon 6.8.5
+
+WinGate 6.1.1
+
+Xitami
+
+YahooPOPs! Simple Mail Transfer Service Ready
+
+#EOF#
